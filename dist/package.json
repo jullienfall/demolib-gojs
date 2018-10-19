@@ -1,7 +1,7 @@
 {
   "$schema": "./node_modules/ng-packagr/package.schema.json",
   "name": "demolib-gojs",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Demo lib",
   "peerDependencies": {
     "@angular/common": "^6.1.0",
@@ -14,7 +14,6 @@
     "@angular/router": "^6.1.0",
     "core-js": "^2.5.4",
     "gojs": "^1.8.32",
-    "rxjs": "~6.2.0",
     "zone.js": "~0.8.26"
   },
   "devDependencies": {
