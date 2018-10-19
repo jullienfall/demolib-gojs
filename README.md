@@ -1,6 +1,8 @@
 # DemolibGojs
 
-Download project and copy files from 'dist/' folder into your app 'node_modules/demolib-gojs' or run npm i demolib-gojs
+Download project and copy files from 'dist/' folder into your app 'node_modules/demolib-gojs' or run 
+
+npm i demolib-gojs
 
 ## Dependencies
 
